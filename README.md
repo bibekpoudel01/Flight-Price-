@@ -1,3 +1,7 @@
+# Flight Price Prediction 
+![Flight Price Prediction](images/Flight%20Price%20Prediction.jpg)
+
+
 # Project Overview
 This project focuses on predicting flight ticket prices based on various flight-related features such as airline, source, destination, journey date, duration, and total stops.
 The goal is to build a reliable machine learning model and deploy it as an interactive web application using Streamlit.
@@ -21,7 +25,7 @@ After evaluation, XGBoost Regressor was selected as the final model due to its s
 Key challenges included extracting meaningful features from time and duration columns, handling high-cardinality categorical variables, tuning complex models without overfitting, and maintaining consistent performance between training and test datasets.
 
 # Demo
-
+![Flight Price Prediction](images/Deployment.png)
 # Conclusion
 
 This project demonstrates a complete real-world machine learning workflow, covering data preprocessing, exploratory analysis, model tuning, evaluation, and deployment, resulting in a reliable flight price prediction system with practical usability.
